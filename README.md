@@ -1,6 +1,6 @@
 # My Custom Powershell Script Library
 
-These powershell scripts are used for pen testing and systemauditing.
+These powershell scripts are used for pen testing and system auditing.
 
 ## Usage:
 
