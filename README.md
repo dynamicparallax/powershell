@@ -11,8 +11,8 @@ Examples of how to run each script is contained in each script file.
   - GetSSN - search directories for files containing Social Security Numbers
   - ChangeManage - Get screenshot, list of process and services status, and lsit all software installed. 
   - HostUP - load windows speech synthesizer and ping remote host, play audio.
-  - WindowsEnumeration - Enumerate windows systems for pentesting (original https://github.com/411Hall/JAWS)
-  - fileinventory - recursivly search directories for file and folder names and types.
+  - WindowsEnum - Enumerate windows systems for pentesting (original https://github.com/411Hall/JAWS)
+  - fileinv - recursivly search directories for file and folder names and types.
 
 ## Known Issues
 
