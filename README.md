@@ -8,7 +8,7 @@ Examples of how to run each script is contained in each script file.
 
 ## Current Usage
   - ExportIEHistory - export Internet Explorer history for forensics
-  - Get-SSN - search directories for files containing Social Security Numbers for PCI
+  - GetSSN - search directories for files containing Social Security Numbers
   - ChangeManage - Get screenshot, list of process and services status, and lsit all software installed. 
   - HostUP - load windows speech synthesizer and ping remote host, play audio.
   - WindowsEnumeration - Enumerate windows systems for pentesting (original https://github.com/411Hall/JAWS)
